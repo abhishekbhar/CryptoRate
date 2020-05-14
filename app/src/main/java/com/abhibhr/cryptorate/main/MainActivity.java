@@ -1,10 +1,12 @@
-package com.abhibhr.cryptorate;
+package com.abhibhr.cryptorate.main;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.abhibhr.cryptorate.R;
+
+public class MainActivity extends LocationActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
