@@ -1,2 +1,3 @@
 rootProject.name='CryptoRate'
 include ':app'
+include ':data'
